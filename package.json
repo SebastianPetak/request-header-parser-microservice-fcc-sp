@@ -8,8 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.15.2",
-    "useragent": "^2.1.9"
-  }
+  "dependencies": {}
 }
